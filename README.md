@@ -1,5 +1,5 @@
-# Sistema para avaliação dos alunos
+# Avalição
 
 * Alunos 
-    - José Victor
-    - Cristian Henrique
+    Rodrigo
+
